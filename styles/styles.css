@@ -7,7 +7,7 @@
     background-image: url(../images/mainbg2.jpg);
      left: 0px;
      top: 0px;
-     max-width: 100%;
+     background-size: cover;
 }
 .ba-container{
     border-radius: 10px;
